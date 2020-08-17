@@ -1,0 +1,370 @@
+{
+  "products": [
+    {
+      "name": "hangntph07648",
+      "categoryId": "1",
+      "price": "5",
+      "salePrice": "1",
+      "title": "<p><i><strong>Bộ siêu tập mới nhất&nbsp;</strong></i></p>",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F3.jpg?alt=media&token=09779e26-e900-4e72-9f6a-02029b8f622b",
+      "date": "2020-08-15T16:28:07.629Z",
+      "id": "kqdbjabv4"
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "1",
+      "price": "1",
+      "salePrice": "1",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=1a57404b-7c9d-434c-869f-bc6580376ca6",
+      "date": "2020-08-15T14:00:25.888Z",
+      "id": "8ooy5xt0l"
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "",
+      "price": "2",
+      "salePrice": "1",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F7.jpg?alt=media&token=ffe0c124-fee9-4cab-a61c-f2ea5c6dca2a",
+      "date": "2020-08-15T14:00:37.659Z",
+      "id": "pcm1yg6rd"
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "3",
+      "price": "500",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F9.jpg?alt=media&token=491b5c80-2187-4218-b525-aa5b2ae3ad4c",
+      "date": "2020-08-11T07:36:25.071Z",
+      "id": "mrsknxssw"
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "3",
+      "price": "407.00",
+      "salePrice": "4000",
+      "title": "454ghgh",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=aed857ac-5c8e-4ba3-a22b-a0052e286b2d",
+      "date": "2020-08-11T07:36:34.317Z",
+      "id": "7r4xuox8p"
+    },
+    {
+      "id": "tkjdb795b",
+      "name": "hangntph07648",
+      "categoryId": "3",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F3.jpg?alt=media&token=e76b9cf8-7795-4393-b9ad-612167c107f7",
+      "date": "2020-08-11T07:28:37.342Z"
+    },
+    {
+      "id": "hdz4s7qek",
+      "name": "1234",
+      "categoryId": "5",
+      "price": "454",
+      "salePrice": "100",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=e4bace27-b695-47fa-a100-f08feb306dbf",
+      "date": "2020-08-11T17:48:05.744Z"
+    },
+    {
+      "id": "92398v01o",
+      "name": "phong",
+      "categoryId": "3",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F1.jpg?alt=media&token=2c08f33e-535b-41fc-a905-6e8b63705f5e",
+      "date": "2020-08-11T18:40:29.247Z"
+    },
+    {
+      "id": "88l8hkvc3",
+      "name": "phong",
+      "categoryId": "3",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F1.jpg?alt=media&token=2c08f33e-535b-41fc-a905-6e8b63705f5e",
+      "date": "2020-08-11T18:41:01.043Z"
+    },
+    {
+      "id": "mx7su5ieh",
+      "name": "phong",
+      "categoryId": "3",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F1.jpg?alt=media&token=66aa9004-77c1-4d59-9312-654514fba205",
+      "date": "2020-08-11T18:40:58.990Z"
+    },
+    {
+      "id": "0muzpew9w",
+      "name": "hangntph07648",
+      "categoryId": "3",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F11.jpg?alt=media&token=26401200-8448-494f-874f-effd1d2cb95e",
+      "date": "2020-08-15T12:28:14.596Z"
+    },
+    {
+      "id": "zbet82ymg",
+      "name": "AOphongmoiw",
+      "categoryId": "1",
+      "price": "454",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F9.jpg?alt=media&token=37accfc7-c85c-4b00-962e-5ff6d9b7bf9f",
+      "date": "2020-08-15T12:29:46.618Z"
+    },
+    {
+      "id": "i888d2j1v",
+      "name": "1234",
+      "categoryId": "1",
+      "price": "5000",
+      "salePrice": "1000",
+      "title": "Bộ siêu tập mới nhất",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F7.jpg?alt=media&token=c230f2a1-4f9d-4d07-9b80-a530d618678f",
+      "date": "2020-08-15T12:32:44.933Z"
+    },
+    {
+      "id": "g0b3239ec",
+      "name": "45678",
+      "categoryId": "1",
+      "price": "20000",
+      "salePrice": "1000",
+      "title": "<p>Luôn<strong> sẵn sàng vì người mặc&nbsp;</strong></p>",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F12.jpg?alt=media&token=b8121454-0141-484a-83d4-9d64a8d1d653",
+      "date": "2020-08-15T12:40:12.153Z"
+    },
+    {
+      "id": "1njizkdws",
+      "name": "Elenora Gibson",
+      "categoryId": "1",
+      "price": "407.00",
+      "salePrice": "1000",
+      "title": "<p><i>ahhahhaahh ahfuh hs hvfvfgfg</i></p>",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F10.jpg?alt=media&token=f5877916-efe3-413d-b3a8-72eaff15f7c2",
+      "date": "2020-08-15T12:52:42.952Z"
+    },
+    {
+      "id": "s4l03ck8b",
+      "name": "hahahah",
+      "categoryId": "5",
+      "price": "10000",
+      "salePrice": "1000",
+      "description": "<p><i>ahahhahahhahahahah</i></p>",
+      "status": "Còn hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F7.jpg?alt=media&token=7dddc9e5-1dd6-43d6-8a09-9051cfe76872",
+      "date": "2020-08-15T12:58:13.889Z"
+    },
+    {
+      "id": "1wr0crde4",
+      "name": "Elenora Gibson",
+      "categoryId": "1",
+      "price": "407.00",
+      "salePrice": "1000",
+      "title": "<p>fghrljkl;&nbsp;</p><p>gfgfgfgfg</p>",
+      "status": "Hết hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F11.jpg?alt=media&token=95421e0f-1608-4611-b7fe-6be659513b3e",
+      "date": "2020-08-15T14:09:23.070Z"
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Công sở",
+      "id": 1
+    },
+    {
+      "name": "Dạo phố",
+      "id": 3
+    },
+    {
+      "name": "Đi học",
+      "id": 5
+    }
+  ],
+  "postCategories": [
+    {
+      "name": "Dạo phố",
+      "id": 3
+    },
+    {
+      "name": "hangntph07648",
+      "id": 2
+    },
+    {
+      "name": "bai viet so 1",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "name": "hang nè",
+      "postCategoryId": "4",
+      "content": "<p>Do <strong>Hà Nộ</strong>i không yêu cầu nên số khách trở về<strong> Hà Nộ</strong>i sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.</p>",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d",
+      "date": "2020-08-15T16:03:19.885Z",
+      "id": "2ggdz4t2u"
+    },
+    {
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "454ghgh",
+      "content": " Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d",
+      "date": "2020-08-11T07:42:04.277Z",
+      "id": "2ggd"
+    },
+    {
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "454ghgh",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d",
+      "date": "2020-08-11T07:41:58.254Z",
+      "id": "sXzEVUJ"
+    },
+    {
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "Bộ siêu tập mới nhất",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=4f39e3d8-2637-4245-8edc-dd2d07303fab",
+      "date": "2020-08-11T07:41:46.684Z",
+      "id": "hn1squh81"
+    },
+    {
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "ghjhjh ",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=912ecb46-eae0-400a-b514-c3680b037859",
+      "date": "2020-08-11T07:41:24.636Z",
+      "id": "t7vp624wc"
+    },
+    {
+      "id": "ggvoke477",
+      "name": "hangntph07648",
+      "postCategoryId": "3",
+      "title": "Bộ siêu tập mới nhất",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F12.jpg?alt=media&token=130000a5-3517-427d-b083-0ba983427647",
+      "date": "2020-08-11T07:40:09.630Z"
+    },
+    {
+      "id": "pkz8law8e",
+      "name": "phong",
+      "postCategoryId": "4",
+      "title": "Bài viết host nhất hôm nay",
+      "content": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F1.jpg?alt=media&token=5a351e56-9c58-42d1-b1b5-18e37260753f",
+      "date": "2020-08-11T14:30:11.700Z"
+    },
+    {
+      "id": "yx12jh13p",
+      "name": "Bài viết tứ nhất",
+      "postCategoryId": "4",
+      "content": "<p><strong>Luono l uôn ujdfk fghfigfdjgfdgdfig</strong></p>",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=4791d049-c855-48b9-a285-317da51c0928",
+      "date": "2020-08-15T15:55:20.715Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "hahah",
+      "email": "hangnt@gmail.com",
+      "mobile": "0853159094",
+      "subject": "ko tôt"
+    },
+    {
+      "name": "hihi",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "083159084",
+      "subject": " ffgfgfgf",
+      "id": 5
+    },
+    {
+      "name": "hihihi",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "09421",
+      "subject": " fdfđfd",
+      "id": 6
+    },
+    {
+      "name": "hihihi",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "09421",
+      "subject": " fdfđfd",
+      "id": 7
+    },
+    {
+      "name": "Nguye",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "232356565",
+      "subject": " 555555565",
+      "id": 8
+    },
+    {
+      "name": "hang",
+      "email": "hangntph07648@fpt.edu.vn",
+      "mobile": "0853159804",
+      "subject": " ko thích",
+      "id": 9
+    },
+    {
+      "name": "hang",
+      "email": "hangntph07648@fpt.edu.vn",
+      "mobile": "098754",
+      "subject": " hfngg",
+      "id": 10
+    },
+    {
+      "name": "Nguyen",
+      "email": "hangntph07648@fpt.edu.vn",
+      "mobile": "3456789icvbn",
+      "subject": " fcg vhbjnkm",
+      "id": 11
+    },
+    {
+      "name": "Nguyen Thi Ha",
+      "email": "hangntph07648@fpt.edu.vn",
+      "mobile": "23036",
+      "subject": " thichd lắm",
+      "id": 12
+    },
+    {
+      "name": "nguỷn thi hằng",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "dfgufdjgfd 0546102",
+      "subject": " vjkdfgk",
+      "id": 13
+    },
+    {
+      "name": "Nguyen Thi Hang ",
+      "email": "nguyenthihang17012000@gmail.com",
+      "mobile": "059710249652",
+      "subject": " pk",
+      "id": 14
+    }
+  ]
+}

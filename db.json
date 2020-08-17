@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "name": "hangntph07648",
+      "categoryId": "1",
+      "price": "407.00",
+      "image": "https://toplist.vn/images/800px/liin-505847.jpg",
+      "id": 2
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "1",
+      "price": "407.00",
+      "image": "https://toplist.vn/images/800px/germe-shop-505870.jpg",
+      "id": 3
+    },
+    {
+      "name": "12377",
+      "categoryId": "3",
+      "price": "454",
+      "image": "https://toplist.vn/images/800px/92-wear-505887.jpg",
+      "id": 5
+    },
+    {
+      "name": "Elenora Gibson hghg",
+      "categoryId": "3",
+      "price": "407.00",
+      "image": "https://toplist.vn/images/800px/nana-shop-505892.jpg",
+      "id": 6
+    },
+    {
+      "name": "hangntph07648",
+      "categoryId": "1",
+      "price": "407.00",
+      "image": "https://toplist.vn/images/800px/nana-shop-505892.jpg",
+      "id": 7
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Công sở",
+      "id": 1
+    },
+    {
+      "name": "Dạo phố",
+      "id": 3
+    },
+    {
+      "name": "Đi học",
+      "id": 4
+    }
+  ],
+  "postCategories": [
+    {
+      "name": "bai viet 1",
+      "id": 1
+    },
+    {
+      "name": "bai viet 2",
+      "id": 3
+    },
+    {
+      "name": "bai viet 3",
+      "id": 4
+    }
+  ],"posts": [
+    {
+      "id": "2ggdz4t2u",
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "454ghgh",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d"
+    },
+    {
+      "id": "2ggd",
+      "name": "hangntph07648",
+      "postCategoryId": "4",
+      "title": "454ghgh",
+      "content": " Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d"
+    },
+    {
+      "name": "hangntph07648",
+      "postCategoryId": "3",
+      "title": "454ghgh",
+      "content": "Do Hà Nội không yêu cầu nên số khách trở về Hà Nội sẽ được xét nghiệm tại các khu cách ly tập trung ở Hà Nội. Các chuyến bay về Hà Nội và TP HCM dự kiến xuất phát trong 3-4 ngày tới. Hai hãng hàng không đồng ý vận chuyển nhưng chưa sắp xếp được tiếp viên, vì chuyến bay từ vùng có dịch về tiếp viên phải cách ly đủ 14 ngày, bà Hạnh cho biết.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F6.jpg?alt=media&token=9fbe8aab-2f89-43af-8247-ee6696783d4d",
+      "id": "sXzEVUJ"
+    },
+    {
+      "id": "hn1squh81",
+      "name": "hangntph07648",
+      "postCategoryId": "2",
+      "price": "407.00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=4f39e3d8-2637-4245-8edc-dd2d07303fab"
+    },
+    {
+      "id": "t7vp624wc",
+      "name": "hangntph07648",
+      "postCategoryId": "2",
+      "title": "ghjhjh ",
+      "content": "han hanghn hang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/vinhdtph08475-jsnangcao.appspot.com/o/images%2F5.jpg?alt=media&token=912ecb46-eae0-400a-b514-c3680b037859"
+    }
+  ]
+  
+}
